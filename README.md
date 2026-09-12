@@ -1,4 +1,4 @@
-# Hello my name is Adriano Velazquez
+# Hello, I'm Adriano Velazquez
 
 > A living record of offensive security practice: Hack The Box write-ups, industry certifications, and home-lab / project builds.
 
