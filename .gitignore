@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node (in case docs/ tooling is added later)
+node_modules/
+
+# Nmap / scan output that may contain lab-specific IPs you don't want public
+nmap/*.xml
+*.gnmap
+
+# Secrets — never commit these
+*.pem
+*.key
+.env
+credentials*
