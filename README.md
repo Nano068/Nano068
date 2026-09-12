@@ -1,9 +1,3 @@
-# Hello, I'm Adriano Velazquez
-
-> A living record of offensive security practice: Hack The Box write-ups, industry certifications, and home-lab / project builds.
-
-**Live site:** `https://Nano068.github.io/Security-Portfolio/` — replace `Nano068` after you push this repo (see [Getting it live](#getting-it-live) below).
-
 # Hello, I'm CHANGEME
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
